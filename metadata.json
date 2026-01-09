@@ -1,0 +1,8 @@
+{
+  "name": "JINGA MOVE",
+  "description": "A professional African-inspired video streaming platform featuring a cinematic UI, smart recommendations, and a rich library of African and international content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
